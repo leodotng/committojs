@@ -15,7 +15,11 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Node.js',
+        path: '/node/',
+      },
+      {
+        label: 'About Us',
         path: '/about/',
       },
       {
@@ -24,7 +28,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'CommitToJS',
       email: '#',
       telegram: '#',
       twitter: '#',
