@@ -29,9 +29,9 @@ module.exports = {
     ],
     author: {
       name: 'CommitToJS',
-      email: '#',
+      email: 'committojs@gmail.com',
       telegram: '#',
-      twitter: '#',
+      twitter: 'committojs',
       github: '#',
       rss: '#',
       vk: '#',
